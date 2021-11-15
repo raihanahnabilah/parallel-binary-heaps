@@ -1,1 +1,3 @@
-# parallel-binary-heaps
+# Parallel Binary Heaps
+
+Exercises on Scala Parallel Collections
